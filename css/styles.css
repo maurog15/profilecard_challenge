@@ -9,6 +9,9 @@
 
 body {
     background-color: hsl(185, 75%, 39%);
+    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: -90% -500px, 170% 400px;
     font-family: 'Kumbh Sans', sans-serif;
     font-weight: 400;
 }
@@ -77,6 +80,14 @@ h4 {
 }
 
 .attribution {
-    position: absolute;
+    position: fixed;
     bottom: 40px;
+    font-size: 15px;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 15px;
 }
