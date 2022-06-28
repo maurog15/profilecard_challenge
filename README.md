@@ -11,5 +11,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Live Site URL: [Github URL](https://maurog15.github.io/profilecard_challenge/)
 - Solution URL:[Frontendmentor solution](https://www.frontendmentor.io/solutions/responsive-profile-card-website-with-basic-html-and-css-Xk6vxVFVJp)
 
-### Links
+### Conclusion
 It was the first time making my own responsive web design, and i think i got a good result. Continue studying and learning!
